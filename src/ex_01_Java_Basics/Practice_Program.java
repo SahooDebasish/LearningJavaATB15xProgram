@@ -4,5 +4,8 @@ public class Practice_Program
 {
     public static void main(String[] args) {
         System.out.println("I am happy to write Program");
+        System.out.println("I am happy to write Program");
+        System.out.println("I am happy to write Program");
+        System.out.println("I am happy to write Program");
     }
 }
